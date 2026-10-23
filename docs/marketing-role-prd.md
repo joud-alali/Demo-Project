@@ -1,7 +1,7 @@
 # Product Requirements Document: Marketing Role
 
-**Status:** Draft for stakeholder review  
-**Product:** Rental business booking and fleet platform  
+**Status:** Draft for stakeholder review
+**Product:** Rental business booking and fleet platform
 **Audience:** Marketing, product, engineering, operations, and analytics
 
 ## 1. Purpose
